@@ -136,4 +136,5 @@ When deployed, the automation array functions correctly under active operational
 * **Advanced Ambient Logic:** The system can be made smarter by adding extra sensors. A **Light Dependent Resistor (LDR)** circuit would let the system read ambient sunlight levels, ensuring it only turns room lights on if it is actually dark inside. Additionally, swap out the simple single-point IR detector for an **Ultrasonic array or Time-of-Flight (ToF) sensor** to count exactly how many people enter and leave the room, keeping things running smoothly until the last person exits.
 
 ---
+<img width="1600" height="720" alt="projectaracreate" src="https://github.com/user-attachments/assets/9dead2c4-e4ab-4b8d-9175-74abcf00cca6" />
 
